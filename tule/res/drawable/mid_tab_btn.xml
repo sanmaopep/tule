@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">   
+<item>   
+      <shape>   
+           <solid android:color="@color/tab_back" />
+		    <corners 
+		        android:topLeftRadius="44dp"
+		        android:topRightRadius="44dp"
+		        android:bottomRightRadius="44dp"
+		        android:bottomLeftRadius="44dp"/>
+      </shape>   
+</item>
+<item 
+    android:left="8dp"
+    android:right="8dp"
+    android:top="8dp"
+    android:bottom="8dp">
+     <shape>
+           <solid android:color="@color/send_btn_color" />
+		    <corners 
+		        android:topLeftRadius="40dp"
+		        android:topRightRadius="40dp"
+		        android:bottomRightRadius="40dp"
+		        android:bottomLeftRadius="40dp"/>
+     </shape>
+</item>
+</layer-list>

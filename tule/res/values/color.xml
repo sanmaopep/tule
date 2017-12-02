@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#3e88a7</color>
+    
+    <!-- reference -->
+    <color name="black">#000000</color>
+    <color name="lightseagreen">#20b2aa</color>
+    <color name="main_back">#FFFFFF</color>
+  	<color name="fragment3_back">#F2F2F2</color>
+  	<color name="line_color">#D2D2D2</color>
+  	<color name="text_gray">#DCDCDC</color>
+    <color name="common_top_bar">#efefef</color>
+    <color name="content_back">#f8f8f8</color>
+    <color name="tip_text">#A3A3A3</color>
+    <color name="text_in_dark">#292929</color>
+    <color name="text_in_light">#828282</color>
+    <color name="send_btn_color">#ff8f00</color>
+ 	<color name="tab_back">#22395B</color>
+    <color name="tab_text_light">#ff8f00</color>
+    <color name="tab_text_dark">#848484</color>
+    <color name="word_head_color">#ff8f00</color>
+    <color name="order_text_color">#4A4A4A</color>
+    <color name="transparent_background">#50000000</color>
+</resources>

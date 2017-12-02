@@ -1,0 +1,25 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="height_top_bar">50dp</dimen>
+    <dimen name="setting_text_ud">15dp</dimen>
+    <dimen name="setting_text_lr">5dp</dimen>
+    <dimen name="setting_frame_lr">20dp</dimen>
+    <dimen name="setting_frame_ud">10dp</dimen>
+    <dimen name="send_text_up">13dp</dimen>
+    <dimen name="send_frame_up">7dp</dimen>
+    <dimen name="send_left">15dp</dimen>
+    <dimen name="man_padding_left">20dp</dimen>
+    <dimen name="man_padding_top">10dp</dimen>
+    <dimen name="word_head">40dp</dimen>
+    <dimen name="order_text_up">11sp</dimen>
+    <dimen name="order_text_mid">15sp</dimen>
+    <dimen name="order_text_down">20sp</dimen>
+    <dimen name="school_item_padding">30dp</dimen>
+    <dimen name="tab_height">60dp</dimen>
+    <dimen name="tab_rl_height">80dp</dimen>
+    <dimen name="frame3_text">15sp</dimen>
+
+</resources>

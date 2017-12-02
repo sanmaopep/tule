@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">图乐</string>
+    <string name="hello_world">Hello world!</string>
+    <!-- 登录界面 -->
+    <string name="login">登录</string>
+    <string name="phonenum">手机号码</string>
+    <string name="password">密码</string>
+    <string name="register">注册</string>
+    <!-- 忘记密码界面 -->
+    <string name="forgetpassword">忘记密码</string>
+    <string name="checkletter">验证码</string>
+    <string name="next">完成</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_finish_personal_detail">FinishPersonalDetailActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <!-- 来自用户端的字符串O(∩_∩)O哈哈~ -->
+    <string name="action_settings">设置</string>
+    <string name="guide_text">立即体验</string>
+    <string name="quit_text">再按一次退出程序</string>
+    <string name="title">请输入</string>
+    <string name="confirm">确定</string>
+    <string name="cancel">取消</string>
+    <string name="person_file">个人资料</string>
+    <string name="send_man">发件人</string>
+    <string name="send_title">代寄快递</string>
+    <string name="rev_man">收件人</string>
+    <string name="send_radio0">上午(11:00&#8211;11:30)</string>
+    <string name="send_radio1">下午(15:00&#8211;16:00)</string>
+    <string name="send_confirm">代寄确认</string>
+    <string name="add_man">新增联系人</string>
+    <string name="express_company">选择快递公司</string>
+    <string name="change_school">切换学校</string>
+    <string name="send_tip">请选择收件人</string>
+    <string name="add_warn">警告</string>
+    <string name="add_dialog">编辑框不能为空</string>
+    <string name="suggest_success">谢谢您的建议</string>
+    <string name="send_dialog">未选取收件人</string>
+    <string name="list_del">是否确定要删除该联系人</string>
+    <string name="get_express">代取快递</string>
+    <string name="get_time">选取起始时间</string>
+    <string name="register_success">注册成功</string>
+    <string name="unknown_error">未知错误</string>
+    <string name="change_password_success">修改密码成功</string>
+    <string name="login_success">登陆成功</string>
+    <string name="login_first">请先登陆</string>
+    <string name="time_out">网络连接超时</string>
+    <string name="net_failed">网络连接失败</string>
+    <string name="suggest_failed">网络连接失败</string>
+    <string name="dif_password">密码不一致</string>
+    <string name="phone_null">手机号不能为空</string>
+    <string name="validate_success">请注意接收验证短信</string>
+    <string name="validate_failed">发送验证短信失败</string>
+    <string name="title_login">登陆</string>
+    <string name="title_repassword">找回密码</string>
+    <string name="title_chpassword">修改密码</string>
+    <string name="title_comment">意见反馈</string>
+    <string name="title_register">注册</string>
+    <string name="title_activity_qiangdan">QiangdanActivity</string>
+    <string name="title_activity_loader">LoaderActivity</string>
+    <string name="title_activity_welcome">WelcomeActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_reset_psd">ResetPsdActivity</string>
+    <string name="title_activity_map">MapActivity</string>
+    <string name="title_activity_psersonal_detailed">PsersonalDetailedActivity</string>
+    <string name="title_activity_personal_center">PersonalCenterActivity</string>
+    <string name="title_activity_my_tags">MyTagsActivity</string>
+    <string name="title_activity_xun_le">XunLeActivity</string>
+
+</resources>
